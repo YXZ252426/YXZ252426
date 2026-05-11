@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Yee
 
-<!--
-**YXZ252426/YXZ252426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student focusing on Rust, systems programming, blockchain infrastructure, and distributed systems.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Interested in Rust, operating systems, Ethereum, storage systems, and distributed systems
+- Currently focus on developing Ethereum execution layer
+- Previously worked on **[fuzzland](https://github.com/fuzzland)** as a software engineer
+- My dream is to be a core dev for Ethereum!!
+
+## Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="./assets/Rust.png" width="45" height="45" alt="Rust"/><br/>
+      <sub><b>Rust</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="./assets/Go.png" width="45" height="45" alt="Golang"/><br/>
+      <sub><b>Golang</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="./assets/reth.png" width="45" height="45" alt="Reth"/><br/>
+      <sub><b>Reth</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="./assets/revm.png" width="45" height="45" alt="REVM"/><br/>
+      <sub><b>REVM</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="./assets/raft.svg" width="45" height="45" alt="Raft"/><br/>
+      <sub><b>Raft</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="./assets/starry.png" width="45" height="45" alt="rCore"/><br/>
+      <sub><b>StarryOS</b></sub>
+    </td>
+  </tr>
+</table>
+
+
+## `Protocol Work`
+
+- [`paradigmxyz/reth` #2738](https://github.com/paradigmxyz/reth/pull/24106): document storage consistency for writers
+- [`bluealloy/revm` #2778](https://github.com/bluealloy/revm/pull/3668): split local execution tracer modules
+
+---
