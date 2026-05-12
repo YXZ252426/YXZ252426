@@ -1,6 +1,6 @@
 # Hi, I'm Yee
 
-Computer Science student focusing on Rust, systems programming, blockchain infrastructure, and distributed systems.
+Senior student in Computer Science focusing on Rust, systems programming, blockchain infrastructure, and distributed systems.
 
 ## About Me
 
